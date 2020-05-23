@@ -1,0 +1,86 @@
+.bg-black{
+    background-color: #000000;
+}
+.navbar-brand img {
+	height: 50px;
+}
+@media (min-width: 768px){
+	.navbar{
+	padding-left:455px!important;
+	padding-right:1500px!important;
+	font-size: 25px;
+	}
+}
+.banner {
+	margin-top: 76px;
+}
+.banner .container-fluid {
+	padding:0!important;
+}
+.banner {
+	margin-top: 76px;
+}
+.banner .container-fluid {
+	padding:0!important;
+}
+.favorite {
+	padding:150px 0px 150px 0px;
+	background:linear-gradient(#fff,#ffffff); 
+}
+.favorite .card{
+	background-color: #c7bcbc;
+	padding: 20px 10px;
+	margin-bottom: 10px;
+}
+.favorite img{
+	width:100%;
+	margin-bottom:20px;
+}
+.headset {
+	padding:150px 0px 150px 0px;
+	background:linear-gradient(#ffffff,#ffffff); 
+}
+.headset .card{
+	background-color: #c7bcbc;
+	padding: 20px 10px;
+	margin-bottom: 10px;
+}
+.headset img{
+	width:100%;
+	margin-bottom:20px;
+}
+.earphone {
+	padding:150px 0px 150px 0px;
+	background:linear-gradient(#fff,#ffffff); 
+}
+.earphone .card{
+	background-color: #c7bcbc;
+	padding: 20px 10px;
+	margin-bottom: 10px;
+}
+.earphone img{
+	width:100%;
+	margin-bottom:20px;
+}
+.title {
+	font-size:50px;
+	font-weight: bold;
+}
+
+.title_line {
+	border-color:#000;
+}
+.product{
+	padding:10px;
+}
+.footer{
+	background-color: #000;
+	padding : 20px;
+}
+.footer p{
+	font-size: 25px;
+	color: #fff;
+}
+.footer img{
+	padding: 20px;
+}
