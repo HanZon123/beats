@@ -4,6 +4,9 @@
 .navbar-brand img {
 	height: 50px;
 }
+.navbar-brand img:hover {
+	opacity: 0.7;
+}
 @media only screen and(min-width: 1280px){
 	.navbar{
 	padding-left:200px!important;
